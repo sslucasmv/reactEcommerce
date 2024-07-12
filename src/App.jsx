@@ -26,7 +26,7 @@ function App() {
 
 console.log(products)
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/reactEcommerce/">
     <Navbar />
 
       <Routes>
