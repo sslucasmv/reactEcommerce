@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sslucasmv.github.io/entrega1LucasVolpe",
+  "homepage": "https://sslucasmv.github.io/reactEcommerce/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
