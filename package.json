@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sslucasmv.github.io/entrega1reactLucasVolpe",
+  "homepage": "https://sslucasmv.github.io/reactEcommerce",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
